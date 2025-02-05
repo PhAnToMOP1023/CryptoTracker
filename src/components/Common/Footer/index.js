@@ -13,7 +13,7 @@ export default function Footer() {
   return (
     <div className="footer">
       <h2 className="logo" onClick={() => topFunction()}>
-        CryptoTracker<span>.</span>
+        CryptoTracker<span>.</span><p>© By Sanket Pawar. All rights reserved.</p>
       </h2>
       
       <div className="social-links">
